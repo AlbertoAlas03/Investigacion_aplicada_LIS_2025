@@ -8,4 +8,4 @@ RUN npm install --save
 
 EXPOSE 3001
 
-CMD [ "npm","start" ]
+CMD [ "npm","start" ]     
